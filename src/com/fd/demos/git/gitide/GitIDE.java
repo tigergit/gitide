@@ -16,6 +16,7 @@ public class GitIDE {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello, Git + Eclipse");
+		System.out.println("Hello, Alex Zhang");
 
 	}
 
